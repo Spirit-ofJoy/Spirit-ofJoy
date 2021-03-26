@@ -2,7 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Yashendu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/yashendu-050502/)](https://www.linkedin.com/in/yashendu-050502/)
 [![Gmail Badge](https://img.shields.io/badge/-yashendu.pandey02@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yashendu.pandey02@gmail.com)](mailto:yashendu.pandey02@gmail.com)
 
-<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+<img width="35%" align="right" alt=" " src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 
 ## Hey there 👋 
