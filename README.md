@@ -12,7 +12,8 @@ This is Spirit of Joy at this end. He just so happens to go around calling himse
 - 💬 Music enthusiast and a huge Movie-buff
 - 🔭 Looking to level up in life
 
- 
+ <br>
+ <br>
  <a href="https://github.com/Spirit-ofJoy">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Spirit-ofJoy&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spirit-ofJoy&theme=buefy&layout=compact" />
