@@ -17,7 +17,7 @@ This is Spirit of Joy at this end. He just so happens to go around calling himse
  <hr>
  <a href="https://github.com/Spirit-ofJoy">
   <img width="45%" height="180cm" src="https://github-readme-stats.vercel.app/api?username=Spirit-ofJoy&theme=react&show_icons=true" /> &nbsp;
-  <img width="45%" height="177cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spirit-ofJoy&theme=react&layout=compact" />
+  <img width="45%" height="178cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spirit-ofJoy&theme=react&layout=compact" />
 </a>
 
 ⭐️ From [Spirit of Joy](https://github.com/Spirit-ofJoy)
