@@ -8,7 +8,7 @@
 ## Hey there 👋 
 This is Spirit of Joy at this end. He just so happens to go around calling himself Yashendu in the real world. 
  
-- 🎓 Sophomore at MNNIT Allahabad , CSE
+- 🎓 Pre-Final student at MNNIT Allahabad , CSE
 - 💬 Music enthusiast and a huge Movie-buff
 - 🔭 Looking to level up in life
 
